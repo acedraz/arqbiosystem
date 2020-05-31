@@ -3,9 +3,9 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=epiz_25861603_arqbiosystem',
-            'username' => 'acedraz',
-            'password' => '123',
+            'dsn' => 'mysql:host=sql113.epizy.com;dbname=epiz_25861603_arqbiosystem',
+            'username' => 'epiz_25861603',
+            'password' => 'Bqymiuoq1EtRB',
             'charset' => 'utf8',
         ],
         'mailer' => [
